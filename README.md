@@ -16,8 +16,8 @@ This project was developed with the following technologies:
 - [JavaScript](https://www.javascript.com/)
 - [VS Code](https://code.visualstudio.com/)
 - [Expo](https://expo.io/)
-- [Styled-componentes](https://styled-components.com)
-- [Axios](https://github.com/axios)
+- [react-native-async-storage](https://github.com/react-native-async-storage/async-storage)
+
 
 
 ## :information_source: Getting Started
